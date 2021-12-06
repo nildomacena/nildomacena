@@ -4,8 +4,6 @@
   <a href="https://github.com/nildomacena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nildomacena&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nildomacena&layout=compact&langs_count=7&theme=onedark"/>
-  <img height="100em" src="https://avatars.githubusercontent.com/u/18093955?v=4"/>
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">

@@ -12,6 +12,7 @@
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://firebasestorage.googleapis.com/v0/b/mymenu-40ca7.appspot.com/o/avatar.jfif?alt=media&token=07d99c9e-f534-4c12-95e4-7b62ddf068a6">
 </div>
   
   ##
@@ -22,17 +23,9 @@
   <a href = "https://t.me/NildoMacena"><img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/nildinhomacena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-<!--
-**nildomacena/nildomacena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Atualmente eu trabalho na Capgemini terceirizado junto ao Banco do Brasil<br>
+Curto muito desenvolver aplicativos mobile usando Flutter e sistemas Web utilizando Angular.<br>
+Você pode dar uma conferida no meu [Portfólio clicando aqui](https://bit.ly/nildo-macena)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vai mexendo aí e qualquer coisa, entra em contato 😁

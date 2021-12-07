@@ -15,16 +15,16 @@
 </div>
   
   ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/ednildo-macena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ednildo@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://t.me/NildoMacena"><img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/nildinhomacena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
 Atualmente eu trabalho na Capgemini terceirizado junto ao Banco do Brasil<br>
 Curto muito desenvolver aplicativos mobile usando Flutter e sistemas Web utilizando Angular.<br>
 Você pode dar uma conferida no meu [Portfólio clicando aqui](https://bit.ly/nildo-macena)<br>
 
 Vai mexendo aí e qualquer coisa, entra em contato 😁
+
+<div> 
+  <a href="https://www.linkedin.com/in/ednildo-macena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ednildo@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://t.me/NildoMacena"><img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/nildinhomacena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>

@@ -16,7 +16,7 @@
   
   ##
 
-Atualmente eu trabalho na Capgemini terceirizado junto ao Banco do Brasil<br>
+Atualmente eu trabalho na Mycon - Consórcio digital<br>
 Curto muito desenvolver aplicativos mobile usando Flutter e sistemas Web utilizando Angular.<br>
 Você pode dar uma conferida no meu [Portfólio clicando aqui](https://bit.ly/nildo-macena)<br>
 
